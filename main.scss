@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin:0;
+}
+body {
+  background: #FEEE9D;
+}
+.circle {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 50%;
+  background-color: #FBD671;
+}
+
+body {
+  border:1px solid blue;
+}
